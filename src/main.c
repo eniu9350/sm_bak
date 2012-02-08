@@ -7,6 +7,8 @@
 #include "server_sm.h"
 #include "net.h"
 
+#include "cassandra.h"
+
 
 sm_server smserver;
 
